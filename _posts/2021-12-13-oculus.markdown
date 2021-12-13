@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Oculus Quest 2"
+date:   2021-12-13 10:31:00 +0700
+post-image: "https://www.cnet.com/a/img/BSgjtdBjptYKCc-bFV8MtzWESjk=/756x425/2020/09/13/8322a528-abac-4fea-90fe-60678c7f3763/24-oculus-quest-2.jpg"
+categories: Personal
+---
+
+# Best standalone VR: Oculus Quest 2
+  
+![oculus pic](https://www.cnet.com/a/img/BSgjtdBjptYKCc-bFV8MtzWESjk=/756x425/2020/09/13/8322a528-abac-4fea-90fe-60678c7f3763/24-oculus-quest-2.jpg)
+  
+**Good:** Self-contained and wireless; great touch controllers; comfortable design for gaming; doubles as PC VR headset
+
+**Bad:** Requires Facebook account
+
+At $299 with nothing else needed, the Oculus Quest 2 delivers virtual reality games and an immersive VR experience anywhere. This virtual reality headset is faster, smaller, cheaper and more comfortable to wear than the original Quest, but you have to log in to Facebook in order to use it. A new version of the Quest 2 doubles the storage of the $299 model to 128GB, and includes a silicone cover for the foam face piece after a voluntary recall of the foam covers earlier this year due to facial irritation concerns with a small subset of customers. Existing Quest 2 owners can order a free silicone cover.
+
+The Quest 2 reminds me of the Nintendo Switch for its versatility and fun, plus it takes mere seconds to start up and fits really well over glasses. The standalone VR headset has self-contained motion tracking and a full-motion six degrees of freedom (aka 6DoF) VR controller that is the same as the ones on the PC-required Oculus Rift, plus a surprisingly great high-resolution display and built-in speakers. Apps are downloaded right to the standalone headset's onboard storage. Its more limited mobile processor still plays games such as Beat Saber, Moss and SuperHot VR extremely well, and it can even connect with a PC if you want to, using a single USB-C cable.
+
+Facebook discontinued the Oculus Rift S, so the Quest 2 is the best and only option over Oculus VR right now. But PC VR users have lots of other headset options. Read our Oculus Quest 2 review.
